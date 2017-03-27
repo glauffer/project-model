@@ -5,6 +5,7 @@ This may be modified as I find more apropriate ways to organize myself
 
 The idea is as follow:
 
+```
 Project
 +-- Readme.md
 +-- project.ipynb
@@ -20,7 +21,7 @@ Project
 |  +-- readme.md
 +-- writings
 |  +-- readme.md
-
+```
 
 * project.ipynb: ipython notebook to summarize all the important results, figures and steps
 * codes/	: folder for codes created for the project
